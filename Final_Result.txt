@@ -1,0 +1,60 @@
+mean tasks waiting time for FCFS with 1 core : 120678.167791
+sum cores waiting time for FCFS with 1 core : 4065
+std tasks waiting time for FCFS with 1 core : 82897281.9987
+std cores waiting time for FCFS with 1 core : 26.9814751265
+
+mean tasks waiting time for SJF with 1 core : 77836.5877114
+sum cores waiting time for SJF with 1 core : 4065
+std tasks waiting time for SJF with 1 core : 54608094.1135
+std cores waiting time for SJF with 1 core : 26.9814751265
+
+mean tasks waiting time for RR_FCFS with 1 core : 164011.906924
+sum cores waiting time for RR_FCFS with 1 core : 4065
+std tasks waiting time for RR_FCFS 1 core : 112127190.688
+std cores waiting time for RR_FCFS 1 core : 26.9814751265
+
+mean tasks waiting time for RR_SJF with 1 core : 162841.778384
+sum cores waiting time for RR_SJF with 1 core : 4065
+std tasks waiting time for RR_SJF 1 core : 111526722.16
+std cores waiting time for RR_SJF 1 core : 26.9814751265
+
+mean tasks waiting time for FCFS with 2 core : 54076.3152177
+sum cores waiting time for FCFS with 2 core : 12626
+std tasks waiting time for FCFS with 2 core : 39993317.6773
+std cores waiting time for FCFS with 2 core : 69.3902010373
+
+mean tasks waiting time for SJF with 2 core : 33925.9340103
+sum cores waiting time for SJF with 2 core : 12626
+std tasks waiting time for SJF with 2 core : 25927714.5324
+std cores waiting time for SJF with 2 core : 69.3902010373
+
+mean tasks waiting time for RR_FCFS with 2 core : 74659.6106552
+sum cores waiting time for RR_FCFS with 2 core : 12624
+std tasks waiting time for RR_FCFS 2 core : 54664888.2813
+std cores waiting time for RR_FCFS 2 core : 69.3757882838
+
+mean tasks waiting time for RR_SJF with 2 core : 74175.5640974
+sum cores waiting time for RR_SJF with 2 core : 12620
+std tasks waiting time for RR_SJF 2 core : 54371492.3153
+std cores waiting time for RR_SJF 2 core : 69.3469537903
+
+mean tasks waiting time for FCFS with 5 core : 14294.0064521
+sum cores waiting time for FCFS with 5 core : 462095
+std tasks waiting time for FCFS with 5 core : 14694360.1203
+std cores waiting time for FCFS with 5 core : 9340.54912733
+
+mean tasks waiting time for SJF with 5 core : 8448.34544475
+sum cores waiting time for SJF with 5 core : 462385
+std tasks waiting time for SJF with 5 core : 9039530.44887
+std cores waiting time for SJF with 5 core : 9340.19865956
+
+mean tasks waiting time for RR_FCFS with 5 core : 20322.6223045
+sum cores waiting time for RR_FCFS with 5 core : 461920
+std tasks waiting time for RR_FCFS 5 core : 20650131.3404
+std cores waiting time for RR_FCFS 5 core : 9340.65126209
+
+mean tasks waiting time for RR_SJF with 5 core : 20221.7089088
+sum cores waiting time for RR_SJF with 5 core : 461910
+std tasks waiting time for RR_SJF 5 core : 20552573.8801
+std cores waiting time for RR_SJF 5 core : 9340.49848777
+
